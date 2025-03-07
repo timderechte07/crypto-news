@@ -1,0 +1,9 @@
+[
+	{ 	
+		"title": "Bitcoin erreicht neues Allzeithoch über 90.000$", 
+      		"date": "2025-03-07", 
+		"content": "Am 7. März 2025 überschritt Bitcoin (BTC) die Marke von 90.000$ und erreichte damit ein neues Allzeithoch. Dieser Anstieg reflektiert die wachsende Akzeptanz und das zunehmende Vertrauen in Kryptowährungen weltweit. Analysten prognostizieren weiterhin steigende Kurse für Bitcoin. Beispielsweise erwartet Alex Thorn von Galaxy Digital, dass Bitcoin in der ersten Hälfte des Jahres 2025 die Marke von 150.000$ überschreiten könnte und bis Ende des Jahres 185.000$ erreicht. Diese optimistischen Vorhersagen basieren auf der zunehmenden institutionellen, unternehmerischen und staatlichen Akzeptanz von Bitcoin. Trotz dieser positiven Entwicklungen bleibt der Kryptomarkt volatil, und Investoren sollten Vorsicht walten lassen. Es wird empfohlen, den Markt genau zu beobachten und fundierte Entscheidungen zu treffen.", 
+		"slug": "bitcoin-erreicht-allzeithoch-90000" 
+	},
+
+]
