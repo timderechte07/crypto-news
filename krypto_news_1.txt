@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Bitcoin steigt über 70.000$",
+        "date": "2025-03-07",
+        "content": "Bitcoin erreicht ein neues Allzeithoch...",
+        "slug": "bitcoin-steigt-70000"
+    },
+    {
+        "title": "Ethereum-Upgrade erfolgreich",
+        "date": "2025-03-05",
+        "content": "Das neue Ethereum-Upgrade bringt viele Verbesserungen...",
+        "slug": "ethereum-upgrade-erfolgreich"
+    }
+]
